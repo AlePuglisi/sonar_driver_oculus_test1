@@ -1,4 +1,4 @@
-# sonar_oculus_ros2_driver
+# sonar_driver_oculus_ros2
 ROS 2 sonar driver for the blueprint subsea oculus M3000d dual-frequency multi-beam imaging sonar
 
 Code copied from [Tethys-Robotics-Team/sonar_driver](https://github.com/Tethys-Robotics-Team/sonar_driver).
