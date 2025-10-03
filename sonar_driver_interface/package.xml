@@ -4,7 +4,7 @@
   <name>sonar_driver_interface</name>
   <version>0.1.0</version>
   <description>Package containing custom messages for the sonar_driver package</description>
-  <maintainer email="schildknecht.bastian@gmail.com">bastian</maintainer>
+  <maintainer email="puglisialessandro27@gmail.com">Alessandro Puglisi</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
