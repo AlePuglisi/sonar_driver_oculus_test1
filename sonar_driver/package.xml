@@ -4,7 +4,7 @@
   <name>sonar_driver</name>
   <version>0.2.0</version>
   <description>Driver for Imaging sonar devices</description>
-  <maintainer email="bastian.schildknecht@gmail.com">Bastian Schildknecht</maintainer>
+  <maintainer email="puglisialessandro27@gmail.com">Alessandro Puglisi</maintainer>
   <license>GNU GPLv3</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
