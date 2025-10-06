@@ -5,7 +5,7 @@
   <version>0.2.0</version>
   <description>Driver for Imaging sonar devices</description>
   <maintainer email="puglisialessandro27@gmail.com">Alessandro Puglisi</maintainer>
-  <license>GNU GPLv3</license>
+  <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
